@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DefeasibleFiltering:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DefeasibleFiltering_jar</output-path>
+    <root id="archive" name="DefeasibleFiltering.jar">
+      <element id="module-output" name="DefeasibleFiltering" />
+    </root>
+  </artifact>
+</component>
